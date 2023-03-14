@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Springboot, Spring JPA, Spring REST Framework**
 
-- 👨‍💻 All of my projects are available at [https://www.yuyangwang.org/Research%20and%20Projects/](https://www.yuyangwang.org/Research%20and%20Projects/)
+- 👨‍💻 All of my projects are available at [https://www.yuyangwang.org/](https://www.yuyangwang.org/Research%20and%20Projects/)
 
 - 📫 How to reach me **yuyang.wang@ucdconnect.ie**
 
