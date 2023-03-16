@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=echo-cool&show_icons=true&locale=en" alt="echo-cool" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=echo-cool&" alt="echo-cool" /></p>
+
