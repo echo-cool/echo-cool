@@ -17,10 +17,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [COMP3030J-Musical-Instrument-Shop - Software Engineering Project 2021-2022](https://yuyangwang.org/documentation/ucd/python/django/2022/12/28/COMP3030J-Musical-Instrument-Shop.html)
 - [Data Encryption Standard &lpar;DES&rpar; based Secure Communication Application](https://yuyangwang.org/documentation/ucd/java/2022/10/11/Data-Encryption-Standard-(DES)-based-Secure-Communication-Application.html)
 - [BM25 Based Search Engine Documentation](https://yuyangwang.org/documentation/ucd/python/2022/05/29/BM25-Based-Search-Engine-Documentation.html)
 - [Grocery List Website &lpar;Python-Flask&rpar;](https://yuyangwang.org/documentation/ucd/web/2021/12/12/COMP3019J-Assignment-Grocery-List-Website-Documentation.html)
-- [Object-Oriented Design Project - Cinema Management and Booking System](https://yuyangwang.org/documentation/ucd/java/2021/12/10/Object-Oriented-Design-Project-Cinema-Management-and-Booking-System.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
