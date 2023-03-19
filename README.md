@@ -7,7 +7,7 @@
  -->
 - 🔭 I’m currently working on [my Final Year Project](https://csgitlab.ucd.ie/19206226/comp3032j_fyp_thesis_group_7)
 
-- 🌱 I’m currently learning **Cloud Native**, **Springboot, Spring JPA, Spring REST Framework**
+- 🌱 I’m currently learning **Cloud Native**, **Kong**, **Springboot, Spring JPA, Spring REST Framework**
 
 - 👨‍💻 All of my projects are available at [https://www.yuyangwang.org/](https://www.yuyangwang.org/Research%20and%20Projects/)
 
