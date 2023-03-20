@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echo-cool&label=Profile%20views&color=0e75b6&style=flat" alt="echo-cool" /> </p>
 
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echo-cool" alt="echo-cool" /></a> </p>
  -->
 - 🔭 I’m currently working on my [Final Year Project](https://csgitlab.ucd.ie/19206226/comp3032j_fyp_thesis_group_7)
