@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echo-cool" alt="echo-cool" /></a> </p>
  -->
-- 🔭 I’m currently working on [my Final Year Project](https://csgitlab.ucd.ie/19206226/comp3032j_fyp_thesis_group_7)
+- 🔭 I’m currently working on my [Final Year Project](https://csgitlab.ucd.ie/19206226/comp3032j_fyp_thesis_group_7)
 
 - 🌱 I’m currently learning **Cloud Native**, **Kong**, **Springboot, Spring JPA, Spring REST Framework**
 
