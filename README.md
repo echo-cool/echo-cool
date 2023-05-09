@@ -19,10 +19,10 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [COMP3032J-Degree-Project-Offer-Master-Group-7](https://yuyangwang.org/comp3032j-degree-project-offer-master-group-7)
 - [COMP3030J-Musical-Instrument-Shop - Software Engineering Project 2021-2022](https://yuyangwang.org/COMP3030J-Musical-Instrument-Shop)
 - [COMP3014 Network Simulation Project](https://yuyangwang.org/Network-Simulation-Project)
 - [Data Encryption Standard &lpar;DES&rpar; based Secure Communication Application](https://yuyangwang.org/Data-Encryption-Standard-(DES)-based-Secure-Communication-Application)
-- [BM25 Based Search Engine Documentation](https://yuyangwang.org/BM25-Based-Search-Engine-Documentation)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
