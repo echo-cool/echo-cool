@@ -36,7 +36,7 @@
 <div>
 <span><img align="left" src="https://github.com/echo-cool/github-stats/raw/master/generated/languages.svg" alt="echo-cool" /></span>
 
-<span><img align="center" src="https://git-status.yuyangwang.org/api?username=echo-cool&hide=contribs&count_private=true&show_icons=true&rank_icon=github" alt="echo-cool" /></span>
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=echo-cool&hide=contribs&count_private=true&show_icons=true&rank_icon=github" alt="echo-cool" /></span>
  </div>
 <br>
 <div>
