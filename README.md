@@ -9,11 +9,11 @@
  -->
 - 🔭 I’m currently working on my [Final Year Project](https://github.com/echo-cool/COMP3032J-Degree-Project-Offer-Master-Group-7)
 
-- 🌱 I’m currently learning **Cloud Native**, **Kong**, **Springboot, Spring JPA, Spring REST Framework**
+- 🌱 I’m currently learning **Cloud Native**, **Kong**, **Springboot, Spring JPA, CUDA, Numba**
 
 - 👨‍💻 All of my projects are available at [https://www.yuyangwang.org/](https://www.yuyangwang.org/Research%20and%20Projects/)
 
-- 📫 How to reach me **yuyang.wang@ucdconnect.ie**
+- 📫 How to reach me **yw2545@cornell.edu**
 
 <!-- - 📄 Know about my experiences [https://www.yuyangwang.org/](https://www.yuyangwang.org/) -->
 
