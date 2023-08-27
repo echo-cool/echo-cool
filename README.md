@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Cloud Native**, **Kong**, **Springboot, Spring JPA, CUDA, Numba**
 
-- 👨‍💻 All of my projects are available at [https://www.yuyangwang.org/](https://www.yuyangwang.org/Research%20and%20Projects/)
+- 👨‍💻 All of my projects are available at [https://www.yuyangwang.org/](https://www.yuyangwang.org/)
 
 - 📫 Reach me at **yw2545@cornell.edu**
 
