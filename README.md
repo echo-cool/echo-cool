@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.yuyangwang.org/](https://www.yuyangwang.org/Research%20and%20Projects/)
 
-- 📫 How to reach me **yw2545@cornell.edu**
+- 📫 Reach me at **yw2545@cornell.edu**
 
 <!-- - 📄 Know about my experiences [https://www.yuyangwang.org/](https://www.yuyangwang.org/) -->
 
