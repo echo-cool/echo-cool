@@ -1,0 +1,72 @@
+name: Metrics
+
+on:
+  # Schedule updates (each 6 hour)
+  schedule: [{ cron: "0 */6 * * *" }]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: { branches: ["master", "main"] }
+
+jobs:
+  generate_profile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: left
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # output_action: gist
+          # committer_gist: 454abf4052a73b5ecd1c15c322fd9585
+
+          # Options
+          user: echo-cool
+          template: classic
+          base: header, metadata
+          config_timezone: Asia/Shanghai
+          commits_authoring: echo-cool, yw2545@cornell.edu, yuyang.wang821@gmail.com
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          repositories_forks: yes
+          config_padding: 0, 8 + 11%
+          config_order: base.header, introduction, isocalendar, habits
+
+      - name: right
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          # output_action: gist
+          # committer_gist: c92c1a720f8908a7a4be6ceedcb49e07
+
+          # Options
+          user: echo-cool
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          # plugin_languages_indepth: yes
+          # plugin_languages_sections: recently-used
+          # plugin_languages_details: lines, percentage
+          plugin_languages_details: percentage
+          plugin_languages_other: yes
+          # plugin_languages_analysis_timeout: 60
+          # plugin_languages_analysis_timeout_repositories: 15
+          # plugin_languages_recent_load: 888
+          plugin_languages_ignored: >-
+            html, css, nasl, ruby, qmake, gnuplot, json
+
+          # plugin_rss: yes
+          # plugin_rss_source: http://blog.yfyang.me/feed.xml
+          # plugin_rss_limit: 4
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          config_padding: 0, 8 + 11%
+          config_order: languages, rss, stars
