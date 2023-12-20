@@ -33,6 +33,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           repositories_forks: yes
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
           config_padding: 0, 8 + 11%
           config_order: base.header, introduction, isocalendar, habits
 
@@ -62,8 +66,6 @@ jobs:
           # plugin_languages_recent_load: 888
           plugin_languages_ignored: >-
             html, css, nasl, ruby, qmake, gnuplot, json
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: yuyangwang.org
           plugin_calendar: yes
           plugin_calendar_limit: 3
           # plugin_rss: yes
