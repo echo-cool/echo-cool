@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="#">
-    <img width="400" align="center" src="https://gist.githubusercontent.com/echo-cool/9a4ac36fcbda5bfe5f62fd14af8d1077/raw/4d28021c3887f0a8f4d40a09511d7756a236ef02/github-metrics.svg" />
+    <img width="400" align="center" src="https://gist.githubusercontent.com/echo-cool/9a4ac36fcbda5bfe5f62fd14af8d1077/raw/github-metrics.svg" />
   </a>
     &emsp;
   <a href="#">
-      <img width="400" align="center" src="https://gist.githubusercontent.com/echo-cool/51730b9a1604bfaec312028b0bc8512d/raw/89c26d196078e70187037c8c923e5bf029009e53/github-metrics.svg" />
+      <img width="400" align="center" src="https://gist.githubusercontent.com/echo-cool/51730b9a1604bfaec312028b0bc8512d/raw/github-metrics.svg" />
   </a>
 </p>
 
