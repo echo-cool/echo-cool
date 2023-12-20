@@ -24,7 +24,7 @@ jobs:
           template: classic
           base: header, metadata
           config_timezone: Asia/Shanghai
-          commits_authoring: echo-cool, yw2545@cornell.edu, yuyang.wang821@gmail.com
+          commits_authoring: echo-cool, yw2545@cornell.edu, yuyang.wang821@gmail.com, yuyang.wang@ucdconnect.ie, me@echo.cool, w1109790800@gmail.com
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
