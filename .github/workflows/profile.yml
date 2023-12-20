@@ -62,7 +62,8 @@ jobs:
           # plugin_languages_recent_load: 888
           plugin_languages_ignored: >-
             html, css, nasl, ruby, qmake, gnuplot, json
-
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: yuyangwang.org
           # plugin_rss: yes
           # plugin_rss_source: http://blog.yfyang.me/feed.xml
           # plugin_rss_limit: 4
