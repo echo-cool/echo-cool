@@ -73,5 +73,11 @@ jobs:
           # plugin_rss_limit: 4
           plugin_stars: yes
           plugin_stars_limit: 3
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality
+          plugin_16personalities_url: https://www.16personalities.com/profiles/d2ac8b5a59ece
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://yuyangwang.org/projects/
           config_padding: 0, 8 + 11%
           config_order: languages, rss, stars
