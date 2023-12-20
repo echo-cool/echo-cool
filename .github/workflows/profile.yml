@@ -16,8 +16,8 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          # output_action: gist
-          # committer_gist: 454abf4052a73b5ecd1c15c322fd9585
+          output_action: gist
+          committer_gist: 9a4ac36fcbda5bfe5f62fd14af8d1077
 
           # Options
           user: echo-cool
@@ -40,8 +40,8 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # output_action: gist
-          # committer_gist: c92c1a720f8908a7a4be6ceedcb49e07
+          output_action: gist
+          committer_gist: 51730b9a1604bfaec312028b0bc8512d
 
           # Options
           user: echo-cool
