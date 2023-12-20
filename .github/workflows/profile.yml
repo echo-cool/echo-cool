@@ -58,6 +58,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
@@ -67,7 +68,7 @@ jobs:
           plugin_languages_ignored: >-
             html, css, nasl, ruby, qmake, gnuplot, json
           plugin_calendar: yes
-          plugin_calendar_limit: 3
+          plugin_calendar_limit: 4
           # plugin_rss: yes
           # plugin_rss_source: http://blog.yfyang.me/feed.xml
           # plugin_rss_limit: 4
@@ -77,9 +78,5 @@ jobs:
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality
           plugin_16personalities_url: https://www.16personalities.com/profiles/d2ac8b5a59ece
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
           config_padding: 0, 8 + 11%
           config_order: languages, rss, stars
