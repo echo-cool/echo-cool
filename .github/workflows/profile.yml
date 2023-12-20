@@ -64,6 +64,8 @@ jobs:
             html, css, nasl, ruby, qmake, gnuplot, json
           plugin_pagespeed: yes
           plugin_pagespeed_url: yuyangwang.org
+          plugin_calendar: yes
+          plugin_calendar_limit: 3
           # plugin_rss: yes
           # plugin_rss_source: http://blog.yfyang.me/feed.xml
           # plugin_rss_limit: 4
