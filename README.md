@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuyang Wang</h1>
 
-<h3 align="center">Software Engineering Enthusiast with a Drive for Innovation</h3>
-
 <p align="center">
   <a href="#">
     <img width="400" align="center" src="https://gist.githubusercontent.com/echo-cool/9a4ac36fcbda5bfe5f62fd14af8d1077/raw/github-metrics.svg" />
