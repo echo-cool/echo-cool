@@ -10,8 +10,7 @@
   </a>
 </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=echo-cool" alt="echo-cool" /></a> </p>
- -->
+
 - 🔭 I’m currently working on [MiniTorch](https://minitorch.github.io/)
 
 - 🌱 I’m currently learning **Cloud Native**, **Kong**, **Springboot, Spring JPA, CUDA, Numba**
