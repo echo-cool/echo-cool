@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuyang Wang</h1>
+<h1 align="center">Hi 👋, I'm Yuyang</h1>
 
 <p align="center">
   <a href="#">
